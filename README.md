@@ -5,8 +5,8 @@
 ## Week 1: Introduction to Programming and Problem-Solving
 
 ### Student Details
-- Name: OGUNTIMEHIN OLUWAFERANMI SAMUEL
-- Matriculation Number: 25/17345
+- Name: Joseph Delight Onyinyhechi
+- Matriculation Number: 25/17839
 - Programme: Software Engineering
 - Course Code: COS 201
 
