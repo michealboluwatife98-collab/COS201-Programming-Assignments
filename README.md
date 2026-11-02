@@ -5,9 +5,9 @@
 ## Week 1: Introduction to Programming and Problem-Solving
 
 ### Student Details
-- Name: Joseph Delight Onyinyhechi
-- Matriculation Number: 25/17839
-- Programme: Software Engineering
+- Name: Omogbolahan Abdul-muheez
+- Matriculation Number: 26/21804
+- Programme: Computer science
 - Course Code: COS 201
 
 ### Practical Exercise
