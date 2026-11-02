@@ -6,9 +6,9 @@
 ## Week 1: Introduction to Programming and Problem-Solving
 
 ### Student Details
-- Name: Omogbolahan Abdul-muheez
-- Matriculation Number: 26/21804
-- Programme: Computer science
+- Name: Oseni Boluwatife
+- Matriculation Number: 25/17916
+- Programme: Cyber Security
 - Course Code: COS 201
 
 ### Practical Exercise
