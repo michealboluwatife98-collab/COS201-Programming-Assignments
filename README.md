@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # COS 201 - Computer Programming I
 
@@ -121,6 +122,4 @@ Each program should be tested with different valid inputs to confirm that the ca
 - Receiving input with Scanner.
 - Performing calculations using Java.
 - Displaying results using print, println and printf.
-=======
-# COS201-Programming-Assignments
-COS 201 Programming I Practical Assignments
+
